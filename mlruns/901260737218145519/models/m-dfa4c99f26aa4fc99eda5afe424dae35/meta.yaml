@@ -1,0 +1,10 @@
+artifact_location: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/models/m-dfa4c99f26aa4fc99eda5afe424dae35/artifacts
+creation_timestamp: 1762916234717
+experiment_id: '901260737218145519'
+last_updated_timestamp: 1762916236564
+model_id: m-dfa4c99f26aa4fc99eda5afe424dae35
+model_type: null
+name: gaudy-snipe-39
+source_run_id: 779029dd9e9c42b5bedc5ff5002b5a16
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/a175697a9bde4ea6a02ee342fa9c13ab/artifacts
+end_time: 1762916299153
+entry_point_name: ''
+experiment_id: '901260737218145519'
+lifecycle_stage: active
+run_id: a175697a9bde4ea6a02ee342fa9c13ab
+run_name: bald-smelt-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762916296996
+status: 3
+tags: []
+user_id: teru

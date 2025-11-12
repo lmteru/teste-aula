@@ -1,0 +1,15 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/97f4a77ebc7543f59a894b2bff8f0422/artifacts
+end_time: 1762909480244
+entry_point_name: ''
+experiment_id: '901260737218145519'
+lifecycle_stage: active
+run_id: 97f4a77ebc7543f59a894b2bff8f0422
+run_name: shivering-fox-692
+run_uuid: 97f4a77ebc7543f59a894b2bff8f0422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762909478890
+status: 4
+tags: []
+user_id: teru

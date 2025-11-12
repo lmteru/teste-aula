@@ -1,0 +1,14 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/6b3191ed300245799d8da23db7395314/artifacts
+end_time: 1762915931535
+entry_point_name: ''
+experiment_id: '901260737218145519'
+lifecycle_stage: active
+run_id: 6b3191ed300245799d8da23db7395314
+run_name: sassy-turtle-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762915929151
+status: 3
+tags: []
+user_id: teru

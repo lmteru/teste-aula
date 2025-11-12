@@ -1,0 +1,10 @@
+artifact_location: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/models/m-a33f7d528b34427c96b236e60e69af48/artifacts
+creation_timestamp: 1762915933600
+experiment_id: '901260737218145519'
+last_updated_timestamp: 1762915935266
+model_id: m-a33f7d528b34427c96b236e60e69af48
+model_type: null
+name: respected-sheep-451
+source_run_id: 5ac73cbf1f3e458f82f9ecfd02df9818
+status: 2
+status_message: null

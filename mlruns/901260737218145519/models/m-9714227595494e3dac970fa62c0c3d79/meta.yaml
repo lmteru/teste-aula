@@ -1,0 +1,10 @@
+artifact_location: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/models/m-9714227595494e3dac970fa62c0c3d79/artifacts
+creation_timestamp: 1762916069447
+experiment_id: '901260737218145519'
+last_updated_timestamp: 1762916071087
+model_id: m-9714227595494e3dac970fa62c0c3d79
+model_type: null
+name: model
+source_run_id: ea576e20c5844e958881ed2fa237339c
+status: 2
+status_message: null

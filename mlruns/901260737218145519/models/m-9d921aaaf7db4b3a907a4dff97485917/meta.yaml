@@ -1,0 +1,10 @@
+artifact_location: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/models/m-9d921aaaf7db4b3a907a4dff97485917/artifacts
+creation_timestamp: 1762916073085
+experiment_id: '901260737218145519'
+last_updated_timestamp: 1762916074805
+model_id: m-9d921aaaf7db4b3a907a4dff97485917
+model_type: null
+name: stately-mink-790
+source_run_id: 4887fe503c33416fa628b7873ab2b691
+status: 2
+status_message: null

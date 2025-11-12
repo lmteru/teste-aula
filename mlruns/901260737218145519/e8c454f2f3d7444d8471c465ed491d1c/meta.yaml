@@ -1,0 +1,14 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/e8c454f2f3d7444d8471c465ed491d1c/artifacts
+end_time: 1762916335323
+entry_point_name: ''
+experiment_id: '901260737218145519'
+lifecycle_stage: active
+run_id: e8c454f2f3d7444d8471c465ed491d1c
+run_name: fun-robin-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762916333379
+status: 3
+tags: []
+user_id: teru

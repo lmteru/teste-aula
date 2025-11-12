@@ -1,0 +1,10 @@
+artifact_location: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/models/m-bd0336521322414cb31214656c6d9713/artifacts
+creation_timestamp: 1762916303415
+experiment_id: '901260737218145519'
+last_updated_timestamp: 1762916305233
+model_id: m-bd0336521322414cb31214656c6d9713
+model_type: null
+name: fun-bass-94
+source_run_id: aa8b426f49c24dd09a52d9215e1757a9
+status: 2
+status_message: null

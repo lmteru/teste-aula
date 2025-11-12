@@ -1,0 +1,14 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/4887fe503c33416fa628b7873ab2b691/artifacts
+end_time: 1762916074813
+entry_point_name: ''
+experiment_id: '901260737218145519'
+lifecycle_stage: active
+run_id: 4887fe503c33416fa628b7873ab2b691
+run_name: resilient-lark-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762916071239
+status: 3
+tags: []
+user_id: teru

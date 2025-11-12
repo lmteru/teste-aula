@@ -1,0 +1,14 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/bdd535cf1190490197e3dd1c1228b7b5/artifacts
+end_time: 1762916069042
+entry_point_name: ''
+experiment_id: '901260737218145519'
+lifecycle_stage: active
+run_id: bdd535cf1190490197e3dd1c1228b7b5
+run_name: selective-loon-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762916066983
+status: 3
+tags: []
+user_id: teru

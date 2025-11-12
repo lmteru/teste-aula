@@ -1,0 +1,10 @@
+artifact_location: file:///home/teru/aula%20monitoramento/mlruns/422882895470228521/models/m-3c0531c85fbe4ef482b670c5cf465763/artifacts
+creation_timestamp: 1762916647496
+experiment_id: '422882895470228521'
+last_updated_timestamp: 1762916649222
+model_id: m-3c0531c85fbe4ef482b670c5cf465763
+model_type: null
+name: youthful-robin-334
+source_run_id: 1c871a7917c34314aceaab4b32bbd83c
+status: 2
+status_message: null

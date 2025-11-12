@@ -1,0 +1,14 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/422882895470228521/1c871a7917c34314aceaab4b32bbd83c/artifacts
+end_time: 1762916649232
+entry_point_name: ''
+experiment_id: '422882895470228521'
+lifecycle_stage: active
+run_id: 1c871a7917c34314aceaab4b32bbd83c
+run_name: persistent-mare-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762916645423
+status: 3
+tags: []
+user_id: teru

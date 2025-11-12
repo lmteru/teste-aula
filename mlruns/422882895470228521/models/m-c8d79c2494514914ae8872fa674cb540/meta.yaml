@@ -1,0 +1,10 @@
+artifact_location: file:///home/teru/aula%20monitoramento/mlruns/422882895470228521/models/m-c8d79c2494514914ae8872fa674cb540/artifacts
+creation_timestamp: 1762916593889
+experiment_id: '422882895470228521'
+last_updated_timestamp: 1762916595681
+model_id: m-c8d79c2494514914ae8872fa674cb540
+model_type: null
+name: elasticnet
+source_run_id: fa19ec518860447eaee1b5b22a88101c
+status: 2
+status_message: null

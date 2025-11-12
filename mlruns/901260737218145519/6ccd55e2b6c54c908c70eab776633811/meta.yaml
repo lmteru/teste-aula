@@ -1,0 +1,14 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/6ccd55e2b6c54c908c70eab776633811/artifacts
+end_time: 1762916301505
+entry_point_name: ''
+experiment_id: '901260737218145519'
+lifecycle_stage: active
+run_id: 6ccd55e2b6c54c908c70eab776633811
+run_name: aged-snipe-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762916299519
+status: 3
+tags: []
+user_id: teru

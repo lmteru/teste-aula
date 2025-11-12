@@ -1,0 +1,14 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/422882895470228521/fa19ec518860447eaee1b5b22a88101c/artifacts
+end_time: 1762916595707
+entry_point_name: ''
+experiment_id: '422882895470228521'
+lifecycle_stage: active
+run_id: fa19ec518860447eaee1b5b22a88101c
+run_name: brawny-wren-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762916591995
+status: 3
+tags: []
+user_id: teru

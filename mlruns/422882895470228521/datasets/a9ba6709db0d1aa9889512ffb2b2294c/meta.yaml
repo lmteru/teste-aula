@@ -1,0 +1,11 @@
+digest: d95ce242
+name: train
+profile: '{"num_rows": 120, "num_elements": 600}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal length (cm)", "required":
+  true}, {"type": "double", "name": "sepal width (cm)", "required": true}, {"type":
+  "double", "name": "petal length (cm)", "required": true}, {"type": "double", "name":
+  "petal width (cm)", "required": true}, {"type": "long", "name": "quality", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "teru", "mlflow.source.name": "/home/teru/.venv/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

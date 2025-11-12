@@ -1,0 +1,15 @@
+artifact_uri: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/11d72aad8fbc45d792ebfefe163a89c0/artifacts
+end_time: 1762909325815
+entry_point_name: ''
+experiment_id: '901260737218145519'
+lifecycle_stage: active
+run_id: 11d72aad8fbc45d792ebfefe163a89c0
+run_name: sassy-fly-461
+run_uuid: 11d72aad8fbc45d792ebfefe163a89c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762909323468
+status: 3
+tags: []
+user_id: teru

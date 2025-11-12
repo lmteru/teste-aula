@@ -1,0 +1,22 @@
+artifact_path: file:///home/teru/aula%20monitoramento/mlruns/901260737218145519/models/m-7f79c97fd4bb432382ffd6b85cc430e3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-7f79c97fd4bb432382ffd6b85cc430e3
+model_size_bytes: 884
+model_uuid: m-7f79c97fd4bb432382ffd6b85cc430e3
+prompts: null
+run_id: e07d0a97ac4d44a3b155c8f4b14c3c22
+utc_time_created: '2025-11-12 03:01:55.138557'

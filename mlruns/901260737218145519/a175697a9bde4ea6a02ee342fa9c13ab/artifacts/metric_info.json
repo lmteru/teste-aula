@@ -1,0 +1,3 @@
+{
+  "accuracy_score_X_val": "accuracy_score(y_true=y_val, y_pred=y_pred)"
+}
